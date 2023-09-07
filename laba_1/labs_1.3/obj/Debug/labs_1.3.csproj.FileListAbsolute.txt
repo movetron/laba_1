@@ -1,0 +1,7 @@
+C:\Users\Lenovo ideapad 330\source\repos\laba_1\labs_1.3\bin\Debug\labs_1.3.exe.config
+C:\Users\Lenovo ideapad 330\source\repos\laba_1\labs_1.3\bin\Debug\labs_1.3.exe
+C:\Users\Lenovo ideapad 330\source\repos\laba_1\labs_1.3\bin\Debug\labs_1.3.pdb
+C:\Users\Lenovo ideapad 330\source\repos\laba_1\labs_1.3\obj\Debug\labs_1.3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo ideapad 330\source\repos\laba_1\labs_1.3\obj\Debug\labs_1.3.exe
+C:\Users\Lenovo ideapad 330\source\repos\laba_1\labs_1.3\obj\Debug\labs_1.3.pdb
+C:\Users\Lenovo ideapad 330\source\repos\laba_1\labs_1.3\obj\Debug\labs_1.3.csproj.AssemblyReference.cache
